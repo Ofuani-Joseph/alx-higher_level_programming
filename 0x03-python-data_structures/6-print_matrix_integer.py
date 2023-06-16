@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 # 6-print_matrix_integer.py
-# Adeyemi Damilare <adeyemidami19@gmail.com>
-
 
 def print_matrix_integer(matrix=[[]]):
     """Print a matrix of integers."""
