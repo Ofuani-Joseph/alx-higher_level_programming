@@ -1,6 +1,6 @@
 /*
  * File: 100-print_python_list_info.c
- * Auth: Adeyemi Damilare
+ * Auth: Ofuani Joseph
  */
 
 #include <Python.h>
