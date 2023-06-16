@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # 10-best_score.py
-# Adeyemi Damilare
 
 def best_score(a_dictionary):
     """Returns a key with the biggest integer value."""
