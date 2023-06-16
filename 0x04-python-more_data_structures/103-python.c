@@ -1,6 +1,6 @@
 /*
  * File: 103-python.c
- * Auth: Adeyemi Damilare
+ * Auth: Ofuani Joseph
  */
 
 #include <Python.h>

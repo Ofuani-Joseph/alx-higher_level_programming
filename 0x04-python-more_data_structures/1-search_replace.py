@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 # 1-search_replace.py
-# Adeyemi Damilare <adeyemidami19@gmail.com>
-
 
 def search_replace(my_list, search, replace):
     """Replace all occurrences of an element by another in a new list."""
