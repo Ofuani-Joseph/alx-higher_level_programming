@@ -37,10 +37,3 @@
 * All functions have a documentation (``python3 -c 'print(__import__("my_module").my_function.__doc__)'`` and <br> ``python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)'``)
 * A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
 * We strongly encourage you to work together on test cases, so that you don’t miss any edge case – The Checker is checking for tests!
-
-
-## List of files and description:
-| S/N   |       Files          |        Description  |
-|:-----:|:--------------------:|:-------------------|
-|1. | [0-read_file.py](https://github.com/Dikachis/alx-higher_level_programming/blob/master/0x0B-python-input_output/0-read_file.py) | A function that reads a text file (``UTF8``) and prints it to stdout: |
-|2. | [1-write_file.py](https://github.com/Dikachis/alx-higher_level_programming/blob/master/0x0B-python-input_output/1-write_file.py) | A function that writes a string to a text file (``UTF8``) and returns the number of characters written: |
